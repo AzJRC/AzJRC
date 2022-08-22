@@ -1,2 +1,4 @@
 ### Hi, I'm Alejandro.
-And right now, I have been learning about coding.
+And ultimately, I've been learning about programming in HTML and CSS.
+
+I'm a few steps to start with JS.
